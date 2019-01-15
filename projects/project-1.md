@@ -5,7 +5,6 @@ title: Record-Keeping Project
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-25
 labels:
-  - Database
   - C
   - C++
 summary: Developed a program that imitates record keeping within a database.
