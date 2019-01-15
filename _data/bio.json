@@ -90,8 +90,8 @@
     }
   ],
   "work": [
-    {
-  /*    "company": "UH Manoa Board of Publications",
+  /*  {
+      "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
       "website": "",
       "startDate": "2015-08-01",
@@ -115,8 +115,8 @@
     } */
   ],
   "volunteer": [
-    {
-    /*  "organization": "Center for Renewable Energy and Island Sustainability",
+    /*{
+     "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
       "position": "Software Developer",
       "startDate": "2016-01-01",
@@ -135,12 +135,12 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Secretary, ACM Manoa, 2019-Present",
+        "Secretary, ACM Manoa, 2019-Present"
       ]
     } 
   ],
   "awards": [
-   /* {
+    {
       "title": "B+ Scholarship",
       "date": "2013-Present",
       "awarder": "State of Hawaii",
@@ -157,6 +157,6 @@
     {
       "name": "Available upon request",
       "reference": ""
-    } */
+    } 
   ]
 }
