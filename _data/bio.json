@@ -3,7 +3,7 @@
     "name": "Marty Joshua Apilado",
     "label": "Student",
     "picture": "https://martyjapilado.github.io/images/ProPict.jpg",
-    "email": "mjka@hawaii.edu",
+    "email": "martyjapilado@gmail.edu",
     "phone": "808-230-3695",
     "website": "https://martyjapilado.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
@@ -22,13 +22,8 @@
       },
       {
         "network": "linkedin",
-        "username": "martyjapilado",
+        "username": "Marty Joshua Apilado",
         "url": "https://www.linkedin.com/in/marty-j-apilado/"
-      },
-      {
-        "network": "twitter",
-        "username": "martyjapilado",
-        "url": "http://twitter.com/MartyJApilado"
       }
     ]
   },
