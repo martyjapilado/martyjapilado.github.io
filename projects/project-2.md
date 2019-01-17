@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: 
+title: Volunteer Project: Book Donations to the Philippines
+permalink: projects/volunteer
 # All dates must be YYYY-MM-DD format!
 date: 2017-3-21
 labels:
@@ -12,7 +12,6 @@ labels:
 summary: Helped with the aid of my school library, donate books to a school in the Philippines
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
 This project was my senior project back in high school. The idea was that me and our school's Interact Club would send a bunch of books for children on to a school at San Julian Elementary School at a town at Tabuk. I managed to get help with some people back at my school's library to organize a bunch of books to send off. This managed to 
 
