@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Managing Expectations: Attempting to Subvert Disappointment While Pursuing a Career
+title: Managing Expectations&#58; Attempting to Subvert Disappointment While Pursuing a Career
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-17
 labels:
