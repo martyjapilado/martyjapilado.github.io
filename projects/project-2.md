@@ -9,7 +9,7 @@ date: 2017-3-21
 labels:
   - Volunteer
   - Charity
-summary: Helped with the aid of my school library, donate books to a school in the Philippines
+summary: With the aid of my high school's library and the school's Interact Club, donated books to a school in the Philippines
 ---
 
 
