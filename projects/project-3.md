@@ -3,7 +3,6 @@ layout: project
 type: project
 image: images
 title: Sudoku Puzzle Solver
-permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-15 
 labels:
