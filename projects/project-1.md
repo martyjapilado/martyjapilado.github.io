@@ -16,6 +16,5 @@ The Record-Keeping Program was a program I managed to code in C++ for ICS 212. T
 <p>
 This project was a solo project, where all of the code was written by myself, there was a similiar one I did before this that was written in C but lacked the features of reversing the list. What I managed to take away from this project is experience in projects in C and C++ knowledge, also working with UNIX to create and compile this project. I manage to also do most of the debugging of the code on Visual Studios (utilizing C and C++). UI was one of the bigger things focused on here, as I managed to have input be based on string input (Ex. typing "add" adds a record) rather than numerical or integer value input (Ex. pressing 1 and entering adds record). 
 <p>
-[Here's a link to the project if you'd like to view it.](https://github.com/martyjapilado/Record-Keeping.git)
 
-
+a[Here's a link to the project if you'd like to view it.](https://github.com/martyjapilado/Record-Keeping.git)
