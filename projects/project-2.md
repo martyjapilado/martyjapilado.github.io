@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/Volunteer_Project1.jpg
 title: Volunteer Project: Book Donations to the Philippines
 permalink: projects/volunteer
 # All dates must be YYYY-MM-DD format!
