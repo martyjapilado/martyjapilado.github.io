@@ -19,4 +19,3 @@ This project was a solo project, where all of the code was written by myself, th
 
 [Here's a link to the project if you'd like to view it.](https://github.com/martyjapilado/Record-Keeping.git)
 
-This is a test
