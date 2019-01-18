@@ -4,7 +4,7 @@ type: project
 image: images/Volunteer_Project1.jpg
 title: Book Donations to the Philippines
 # All dates must be YYYY-MM-DD format!
-date: 2017-3-21
+date: 2017-03-21
 labels:
   - Volunteer
   - Charity
