@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images
+image: images/ICS211Sudoku.PNG
 title: Sudoku Puzzle Solver
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-15 
