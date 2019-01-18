@@ -11,7 +11,6 @@ labels:
   - Charity
 summary: Helped with the aid of my school library, donate books to a school in the Philippines
 ---
-<div class="ui small rounded images">
 </div>
 <p>
 This project was my senior project back in high school. The idea was that me and our school's Interact Club would send a bunch of books for children on to a school at San Julian Elementary School at a town at Tabuk. I managed to get help with some people back at my school's library to organize a bunch of books to send off. This managed to 
