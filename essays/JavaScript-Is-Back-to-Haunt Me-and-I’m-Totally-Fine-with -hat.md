@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: JavaScript Is Back to Haunt Me and I’m Totally Fine with That
+title: JavaScript Is Back to Haunt Me and I’m Fine with That
 
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-18
