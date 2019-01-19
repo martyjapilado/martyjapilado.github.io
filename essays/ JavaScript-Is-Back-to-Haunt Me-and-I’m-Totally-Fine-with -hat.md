@@ -1,7 +1,8 @@
 ---
 layout: essay
 type: essay
-title: Returning to JavaScript&#58; It Can’t Be That Bad... 
+title: JavaScript Is Back to Haunt Me and I’m Totally Fine with That
+
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-18
 labels:
