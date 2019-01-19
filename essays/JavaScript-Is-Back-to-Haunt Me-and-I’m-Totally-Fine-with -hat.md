@@ -10,6 +10,7 @@ labels:
   - JavaScript
   - Learning
 ---
+<img src = "/images/JavaScriptImage.jpg">
 <p>
 JavaScript, as much as I’m willing to admit, was my first attempt at learning programming. During my high school freshman days, programming became one of my interests for a time before I decided to hold it off for another hobby to try out. I remember it being “easy” but not continuing due to lack of motivation and patience, with emphasis on “patience”. I didn’t expect to get into a career at programming at the time, as I was one of those guys that thought I could make video game for the fun of it, but that didn’t work out. 
 <p>
