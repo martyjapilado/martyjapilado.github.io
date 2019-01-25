@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ResizedSudoku.jpg" height="24" width="54"
+image: images/ResizedSudoku.jpg" | height="24" width="54"
 title: Sudoku Puzzle Solver
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-15 
