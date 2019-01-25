@@ -7,7 +7,6 @@ title: ''What is a Smart Question?'' Apparently Doesn't Qualify as a Smart Quest
 date: 2019-01-24
 labels:
   - Software Engineering
-  - JavaScript
   - Learning
 ---
 <p>
