@@ -11,7 +11,7 @@ labels:
   - Learning
 ---
 <p>
-Let us see a (post)[https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it] by user Mark Roger on StackOverflow. They have a very detailed titled: What does “use strict” do in JavaScript, and what is the reasoning behind it? The question doesn’t appear specific or detailed (Eric Raymond would say it would be a stupid question at first), but cements the idea that this is a question on the syntax on JavaScript. It presents a general objective to the readers.  The substance of the actual post, however, represents what is contained in a smart question.
+The qualifications as to what is a smart questionLet us see a [post](https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it) by user Mark Roger on StackOverflow. They have a very detailed titled: What does “use strict” do in JavaScript, and what is the reasoning behind it? The question doesn’t appear specific or detailed (Eric Raymond would say it would be a stupid question at first), but cements the idea that this is a question on the syntax on JavaScript. It presents a general objective to the readers.  The substance of the actual post, however, represents what is contained in a smart question.
 <p>
 
 <p>
@@ -21,8 +21,8 @@ In one whole post Mark Roger managed to carve this narrative with the conflict a
 <p>
 Now we throw user Arian under the bus and refer to their post “Android Listview animations that don't suck [closed]”. The post itself reads:
 
- I was looking here. http://android-er.blogspot.com/2009/10/listview-and-listactivity-layout.html
-It... sucks. One at at time? Also where can I find some cooler effects? Google is giving me that page like 6 times on 6 sites. Hurray for SEO .
+> I was looking here. http://android-er.blogspot.com/2009/10/listview-and-listactivity-layout.html
+>It... sucks. One at at time? Also where can I find some cooler effects? Google is giving me that page like 6 times on 6 sites. Hurray for SEO .
 
 This isn’t a very smart question for one reason that it really does lack insight and substance. What does Arian want? A better animation with cooler effects isn’t very specific. If someone came up to me and asked me for better pizza with delicious toppings, I wouldn’t even know what to give him.  “This pizza sucks. One at a time? Also where can I find better pizza, it’s like the same pizza over from Dominos/Pizza Hut/Papa Johns.” Thankfully he got an “alright” answer but in the mean time the thread ended up closed as StackOverflow expected answers “to be supported by facts, references, or expertise, but this question will likely solicit debate, arguments, polling, or extended discussion.” Figures.
 <p>
