@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/212Project2.PNG
+image: images/RecordKeep.jpg
 title: Record-Keeping Project
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-25
