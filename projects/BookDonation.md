@@ -10,6 +10,7 @@ labels:
   - Charity
 summary:  With the aid of my high school's library and and Interact Club, donated books to a school in the Philippines
 ---
+<img src = "/images/Volunteer_Project2.jpg">
 <p>
 This project was my senior project back in high school. The idea was that me and our school's Interact Club would send a bunch of books for children on to a school at San Julian Elementary School at a town at Tabuk. I managed to get help with some faculty back at my school's library to organize a bunch of books to send off, along with our school's Interact Club. We managed to send off a bunch of books that were originally going to be tossed (and most likely burned) but managed to do some convincing and redirect it's destination to and elementary school in the Philippines. 
 <p>
