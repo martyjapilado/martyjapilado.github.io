@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: What is a Smart Question? Apparently Doesn't Qualify as a Smart Question
+title: Smart Questions Receive Smart Solutions For Simple Problems
 
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-24
