@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/16x16_06_medium_puzzle_sudoku.gif
+image: images/16x16_06_medium_puzzle_sudoku.gif = 266x199x
 title: Sudoku Puzzle Solver
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-15 
