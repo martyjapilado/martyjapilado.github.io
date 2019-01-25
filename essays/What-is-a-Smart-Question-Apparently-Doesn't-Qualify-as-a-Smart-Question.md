@@ -9,9 +9,9 @@ labels:
   - Software Engineering
   - Learning
 ---
-<p>
+
 Let us see a [post](https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it) by user Mark Roger on StackOverflow. They have a very detailed titled: What does “use strict” do in JavaScript, and what is the reasoning behind it? The question doesn’t appear specific or detailed (Eric Raymond would say it would be a stupid question at first), but cements the idea that this is a question on the syntax on JavaScript. It presents a general objective to the readers.  The substance of the actual post, however, represents what is contained in a smart question.
-<p>
+
 
 <p>
 In one whole post Mark Roger managed to carve this narrative with the conflict and his attempts at solving so far. Mark explains that “he goes through JSLint, presents the error, notices the use of use strict on other but wishes to understand it’s utilization. He couldn’t find any material on “use strict” Google this due to the lack of history behind the use of “use strict;”. He gets a detailed answer with a link to a very relevant article and excerpts that explain the usage of “use strict;”. Mark practically gets everything he needs with that one answer (and more). There’s a simple courtesy that is presented so that one user may answer and explain the resource that holds the answer.
