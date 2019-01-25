@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: JavaScript Is Back to Haunt Me and I’m Fine with That
+title: "What is a Smart Question?" Apparently Doesn't Qualify as a Smart Question
 
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-18
