@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 <p>
-The qualifications as to what is a smart questionLet us see a [post](https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it) by user Mark Roger on StackOverflow. They have a very detailed titled: What does “use strict” do in JavaScript, and what is the reasoning behind it? The question doesn’t appear specific or detailed (Eric Raymond would say it would be a stupid question at first), but cements the idea that this is a question on the syntax on JavaScript. It presents a general objective to the readers.  The substance of the actual post, however, represents what is contained in a smart question.
+Let us see a [post] (https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it) by user Mark Roger on StackOverflow. They have a very detailed titled: What does “use strict” do in JavaScript, and what is the reasoning behind it? The question doesn’t appear specific or detailed (Eric Raymond would say it would be a stupid question at first), but cements the idea that this is a question on the syntax on JavaScript. It presents a general objective to the readers.  The substance of the actual post, however, represents what is contained in a smart question.
 <p>
 
 <p>
