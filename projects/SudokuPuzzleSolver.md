@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: images/SmolSudoku.jpg alt="Sudoku" height="42" width="42"
+image: images/SmolSudoku.jpg" alt="Sudoku" height="42" width="42"
 title: Sudoku Puzzle Solver
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-15 
 labels:
   - Java
   - Recursion
-summary: Made a 16 by 16 Sudoku Puzzle Solver and thought it was the coolest thing ever even if it took 45 minutes average to solve certain puzzles.
+summary: Made a 16 b" 16 Sudoku Puzzle Solver and thought it was the coolest thing ever even if it took 45 minutes average to solve certain puzzles.
 ---
 <img src = "/images/ICS211Sudoku.PNG">
 This was a sudoku puzzle solver that I somehow managed to code for ICS 211. I thought it was pretty brilliant that I could've made something like this at the time. This was also one of the bigger introductions to recursion and I thought it was one of the coolest things ever. It was like that even though I found that it took 45 minutes to solve harder sudoku puzzles, but at least it brought about a guranteed solution. 
