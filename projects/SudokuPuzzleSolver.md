@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/SmolSudoku.jpg
+image: <img class="ui small image" src="images/SmolSudoku.jpg">
 title: Sudoku Puzzle Solver
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-15 
