@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img src = "/images/SmolSudoku.jpg">
+image: <img src="images/SmolSudoku.jpg" alt="Sudoku" height="42" width="42"> 
 title: Sudoku Puzzle Solver
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-15 
