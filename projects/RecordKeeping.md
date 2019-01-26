@@ -11,7 +11,7 @@ labels:
 summary: Developed a program that imitates record keeping within a database.
 ---
 
-<img src = "/images/212Project2.PNG">
+
 The Record-Keeping Program was a program I managed to code in C++ for ICS 212. The features of this program include, number ID designation for each record, with record contains name and address. IDs that were added through the add feature in the program were placed and sorted by numerical value. The user could either add a new record, delete an existing record, reverse the list of records, print a designated record, or print all records in the list. An additional additional copy of the list can be made. Records are also saved onto a text file for later use so when the program is run again, the existing records from the previous record remains.
 
 
@@ -20,4 +20,4 @@ This project was a solo project, where all of the code was written by myself, th
 
 Here's a link to the [project](https://github.com/martyjapilado/Record-Keeping.git) if you'd like to view it.
 
-
+<img src = "/images/212Project2.PNG">
