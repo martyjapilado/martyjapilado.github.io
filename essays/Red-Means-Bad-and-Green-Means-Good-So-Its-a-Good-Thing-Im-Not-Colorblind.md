@@ -13,12 +13,12 @@ labels:
 I recall a specific question that psyched me out in a quiz. The code looked something similarly this:
 ```C
 int ezpz(int x) {
-	int y = x;
-	int i;
-for(i = 0; i < 100; i++) {
-		y += i;
-	return result;
-}
+    int y = x;
+    int i;
+    for(i = 0; i < 100; i++) {
+        y += i;
+    return result;
+    }
 }
 ```
 The question was how many iterations will the for loop go through. This is how I got baited out of a single point, because someone like me would think “oh the result is at the same line as the for loop, therefore it returns out of the for loop”. My answer: 100 iterations. The real answer was one. This was a lesson by the professor on coding style, because the return statement is positioned in a way that looks to be out of the for loop.
