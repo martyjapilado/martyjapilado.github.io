@@ -9,6 +9,7 @@ labels:
   - Software Engineering
   - JavaScript
   - Learning
+  - Coding Standards
 ---
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I recall a specific question that psyched me out in a quiz. The code looked something similarly this:
