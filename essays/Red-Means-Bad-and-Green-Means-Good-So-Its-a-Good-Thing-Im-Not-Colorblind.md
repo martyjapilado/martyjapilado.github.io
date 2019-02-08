@@ -19,7 +19,7 @@ int ezpz(int x) {
     int i;
     for(i = 0; i < 100; i++) {
         y += i;
-    return result;
+    return y;
     }
 }
 ```
