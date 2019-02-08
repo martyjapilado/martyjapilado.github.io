@@ -4,7 +4,7 @@ type: essay
 title: Red Means Bad and Green Means Good So It’s a Good Thing I’m Not Colorblind
 
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-18
+date: 2019-02-07
 labels:
   - Software Engineering
   - JavaScript
