@@ -14,7 +14,7 @@ labels:
 <p>
  	It’s best to note that the picture above only reflects my own individual experience with using CSS files in general. In summary, my own individual experiences involve HTML sometimes straying away from the contents of my CSS file. So when I heard we would use a UI framework such as Semantic UI, I was elated, as I would have to use less CSS for my HTML file. Just look at my browserhistory code done in Semantic UI. Didn’t even NEED a CSS file. 
 <p>
-<img src = "/images/SemanticProj.JPG">
+<img src = "/images/Semantic Proj.JPG">
 <img src = "/images/Works.JPG">
 I wish it was like that every time. That’s why I see that 
 <p>
