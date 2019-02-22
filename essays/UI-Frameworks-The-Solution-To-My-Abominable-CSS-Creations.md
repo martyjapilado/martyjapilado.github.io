@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: UI Frameworks, The Solution to My Abominable CSS Creations
+title: UI Frameworks&#58; The Solution to My Abominable CSS Creations
 
 # All dates must be YYYY-MM-DD format!
 date: 2019-02-21
