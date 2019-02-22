@@ -10,7 +10,7 @@ labels:
   - HTML and CSS
   - User Interface
 ---
-<img src = "/images/Comic.jpg" style="width: 300px; height: 500px;">
+<img src = "/images/Comic.jpg" style="width: 1000px; height: 400px;">
 
 <h2>How I feel about CSS</h2>
 <p>
