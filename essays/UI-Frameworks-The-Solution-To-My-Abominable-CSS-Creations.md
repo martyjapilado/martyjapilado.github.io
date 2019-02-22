@@ -21,10 +21,9 @@ labels:
 I wish it was like that. Every. Time.
   
 <h2>Nearly Making the Big Whoopsie When I Shoudn't</h2>
-<p>
+
   In honesty, during the corresponding exercise that was to determine a certain 100 points of my grade, I mostly just threw stuff into style in the tags, because even if I linked my own CSS file to my HTML most of the text and icons didn’t show up on a black background. Some things from the CSS may work, such as borders and margins but not everything follows through. As a solution, I just chose a comfy solution: 
-  </p>
-  ```css
+  ```html
   <div class=”ui item” style="color: white; etc. etc"> 
   ```
   <p>
