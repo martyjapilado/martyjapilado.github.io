@@ -22,12 +22,12 @@ I wish it was like that. Every. Time.
   
 <h2>Nearly Making the Big Whoopsie When I Shoudn't</h2>
 
-  In honesty, during the corresponding exercise that was to determine a certain 100 points of my grade, I mostly just threw stuff into style in the tags, because even if I linked my own CSS file to my HTML most of the text and icons didn’t show up on a black background. Some things from the CSS may work, such as borders and margins but not everything follows through. As a solution, I just chose a comfy solution: using 
+  In honesty, during the corresponding exercise that was to determine a certain 100 points of my grade, I mostly just threw stuff into style in the tags, because even if I linked my own CSS file to my HTML most of the text and icons didn’t show up on a black background. Some things from the CSS may work, such as borders and margins but not everything follows through. As a solution, I just chose a comfy solution: 
   ```html 
   <div class=”ui item” style=”color: white; etc. etc"> 
   ```
-  under the corresponding tags. I’m not sure if that makes people recoil in horror or anything but it was a decent work around, given that I had 20 minutes left on the clock, and I didn’t want to screw anything over.
+  Just use set "style" under the corresponding tags I’m not sure if that makes people recoil in horror or anything but it was a decent work around, given that I had 20 minutes left on the clock, and I didn’t want to screw anything over.
 
 <p>
-  Eventually I’ll get the hang of CSS in time, but for now the prudoction of CSS files will continue, with hopes that everything will work, even when it doesn't. It's just that doing everthing on a tag seemed far easier, especially when you can specify a scope in the HTML file.
+  Eventually I’ll get the hang of CSS in time, but for now the production of CSS files will continue, with hopes that everything will work, even when it doesn't. This just leads me to having to sort through over and over until I have to eventually move back and set "styles" in the HTML file itself,  It's just that doing everything on a tag seemed far easier, especially when you can specify a scope in the HTML file.
 <p>
