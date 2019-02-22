@@ -10,14 +10,16 @@ labels:
   - HTML and CSS
   - User Interface
 ---
-<img src = "/images/JavaScriptImageCropped.jpg">
+<img src = "/images/Comic.jpg">
 <p>
  	It’s best to note that the picture above only reflects my own individual experience with using CSS files in general. In summary, my own individual experiences involve HTML sometimes straying away from the contents of my CSS file. So when I heard we would use a UI framework such as Semantic UI, I was elated, as I would have to use less CSS for my HTML file. Just look at my browserhistory code done in Semantic UI. Didn’t even NEED a CSS file. 
 <p>
+<img src = "/images/SemanticProj.jpg">
+<img src = "/images/Works.jpg">
 I wish it was like that every time. That’s why I see that 
 <p>
-  I know that it’s a running joke that “JavaScript isn’t that great. Why would you ever code in JavaScript” around certain computer science communities, possibly because it isn’t a “strongly typed language”. I don’t know what that means. There isn’t much experience or time with JavaScript to confirm if I love it so far. For me, it takes time to cozy up to something. For instance, C was the craziest thing to me. At the beginning of my C/C++ course, pointers were such a hurdle to get through. I assume that will happen with JavaScript, possibly with Object Oriented programming as it’s different from that of Java or C++.
+  In honesty, during the corresponding exercise that was to determine a certain 100 points of my grade, I mostly just threw stuff into style in the tags, because even if I linked my own CSS file to my HTML most of the text and icons didn’t show up on a black background. Some things from the CSS may work, such as borders and margins but not everything follows through. As a solution, I just chose a comfy solution: using <code><div class=”….” style=”color: white; etc. etc><code> under the corresponding tags. I’m not sure if that makes people recoil in horror or anything but it was a decent work around, given that I had 20 minutes left on the clock, and I didn’t want to screw anything over.time with JavaScript to confirm if I love it so far. For me, it takes time to cozy up to something. For instance, C was the craziest thing to me. At the beginning of my C/C++ course, pointers were such a hurdle to get through. I assume that will happen with JavaScript, possibly with Object Oriented programming as it’s different from that of Java or C++.
 <p>
 <p>
-  The WODS, practice or no practice, have (as of this point) been challenging but leaves that satisfaction when I manage to solve something, rather than defeat and confusion. The practice WODS is a nice way to practice, with good reason to do so. The practice WODS with Branden Ogata (the class’s Teaching Assistant) are difficult. But they do add insight. The most recent practice WOD with Branden made me realize I could consider making more functions to solve a problem, which I should have considered beforehand. But that’s good to know now. Well, here’s hoping that JavaScript isn’t the worst language I end up learning.
+  Eventually, maybe I’ll get the
 <p>
