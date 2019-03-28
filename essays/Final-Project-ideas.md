@@ -22,7 +22,7 @@ labels:
   <li>Add Carpool Users</li>
   <li>Saved Carpool Drivers</li>
   <li>Add Contacts of Carpool Drivers</li>
-  <li>{"Heading to locations" segment for carpool drivers}</li>
+  <li>"Heading to locations" segment for carpool drivers</li>
   <li>Add Contacts of Carpool Searchers</li>
   <li>Possible rating system?</li>
 </ul>
