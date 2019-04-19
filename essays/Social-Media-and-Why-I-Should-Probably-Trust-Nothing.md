@@ -6,8 +6,7 @@ title: Social Media and Why I Should Probably Trust Nothing
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-18
 labels:
-  - Software Engineering
-  - Learning
+  - Ethics
 ---
 
 Ethics, from the software engineering perspective, is providing a honest product of quality that functions for the sake of the user and does not end up threatening basic human rights, such as privacy.
