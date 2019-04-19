@@ -21,5 +21,5 @@ deleting our Facebook as more evidence presented that it would be unethical to k
 our own privacy but others.
 
 Social media sites and the structure of social media are integrated to be common place in our own daily lives. 
-However, with something that is so commonplace in our society, there are some controversial uses in terms of the software world in social media.(Facebook somehow managed to endanger the privacy and compromise multiple users data, which is speculated to be a result of possible foreign activities.) [https://www.nytimes.com/2018/11/14/technology/facebook-data-russia-election-racism.html]
+However, with something that is so commonplace in our society, there are some controversial uses in terms of the software world in social media.[Facebook somehow managed to endanger the privacy and compromise multiple users data, which is speculated to be a result of possible foreign activities.)] (https://www.nytimes.com/2018/11/14/technology/facebook-data-russia-election-racism.html)
 
