@@ -4,7 +4,7 @@ type: essay
 title : Structure and Design for-Precautions-and-Big-Mistakes
 
 # All dates must be YYYY-MM-DD format!
-date: 2019-02-07
+date: 2019-04-28
 labels:
   - Design Patterns
   - Software Engineering
