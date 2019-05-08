@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/RecordKeep.jpg
+image: images/Icon.PNG
 title: Make A Meal 2.0&#58; A Pretty Looking Thing I Helped Make
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-07
@@ -13,10 +13,12 @@ labels:
   - Semantic UI/React
   - Meteor 
   - HTML/CSS
-summary: Deloped a web app called Make-A-Meal, an app for recommending and creating easy to cook recipes based on user inputs. 
+summary: Developed a web app called Make-A-Meal, an app for recommending and creating easy to cook recipes based on user inputs. 
 ---
 Link to the project: [Make A Meal 2.0](http://make-a-meal2.meteorapp.com/)   
+
 Project Info Page: [https://make-a-meal-2-0.github.io/](https://make-a-meal-2-0.github.io/)
+
 Github Project Page: [https://github.com/make-a-meal-2-0/mam2](https://github.com/make-a-meal-2-0/mam2)
 
 <h3>My Experiences in Developing This Project</h3>
