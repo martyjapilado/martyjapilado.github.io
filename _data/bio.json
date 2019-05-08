@@ -57,7 +57,12 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "Python"
+        "HTML/CSS",
+        "React",
+        "Semantic UI",
+        "Meteor",
       ]
     },
     {
@@ -67,7 +72,15 @@
         "Windows 10",
         "Ubuntu",
         "Git/GitHub",
-        "UNIX"
+        "UNIX",
+        "Linux"
+      ]
+    },
+     {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "MongoDB",
       ]
     }
   ],
@@ -82,6 +95,16 @@
       "courses": [ "Intro to Computer Science", "Algorithms and Data Science", "Programming Structures", "Discrete Math", "Software Engineering", "General Courses"
       ]
     }
+  ],
+  "work": [
+    {
+      "company": "University of Hawaii Easter Asian Languages and Literature Department",
+      "position": "Web Assistant",
+      "website": "https://www.hawaii.edu/eall/http://www.ics.hawaii.edu/",
+      "startDate": "2019-05-07",
+      "endDate": "Present",
+      "summary": "I maintained a website for the East Asian Language and Literature Department at UH Manoa, upadated faculty/grad student portfolios and advertised different events on site, •	Built custom WordPress plugins to add external functionality to the installed theme, and commmunicated extensively with professors to add numerous features with updates",
+    },
   ],
   "volunteer": [
     {
