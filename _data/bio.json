@@ -58,7 +58,7 @@
         "C++",
         "Java",
         "Javascript",
-        "Python"
+        "Python",
         "HTML/CSS",
         "React",
         "Semantic UI",
@@ -80,7 +80,7 @@
       "name": "Databases",
       "level": "",
       "keywords": [
-        "MongoDB",
+        "MongoDB"
       ]
     }
   ],
@@ -104,7 +104,7 @@
       "startDate": "2019-05-07",
       "endDate": "Present",
       "summary": "I maintained a website for the East Asian Language and Literature Department at UH Manoa, upadated faculty/grad student portfolios and advertised different events on site, •	Built custom WordPress plugins to add external functionality to the installed theme, and commmunicated extensively with professors to add numerous features with updates",
-    },
+    }
   ],
   "volunteer": [
     {
