@@ -15,12 +15,12 @@ labels:
   - HTML/CSS
 summary: Deloped a web app called Make-A-Meal, an app for recommending and creating easy to cook recipes based on user inputs. 
 ---
-Link to the project: [Make A Meal 2.0](http://make-a-meal2.meteorapp.com/) toeirupewi  
+Link to the project: [Make A Meal 2.0](http://make-a-meal2.meteorapp.com/)   
 Project Info Page: [https://make-a-meal-2-0.github.io/](https://make-a-meal-2-0.github.io/)
 Github Project Page: [https://github.com/make-a-meal-2-0/mam2](https://github.com/make-a-meal-2-0/mam2)
 
 <h3>My Experiences in Developing This Project</h3>
-When looking at the project, I take into account the amount of UI design I had to do. I started off with having a vague idea of how to design these pages. It started with changing the background constantly early with a color of brown but then ending with a result with a color pallette. I also ended up having to learn how to deal with Simple Schemas in the project so that I would have a group of ingredients be displayed along with their corresponding recipe cards and pages. Communication wasn't that bad between team members as all of us managed to pull our own efforts into this project.
+When looking at the project, I take into account the amount of UI design I had to do. I started off with having a vague idea of how to design these pages. It started with changing the background constantly early with a color of brown but then ending with a result with a color pallette. I also ended up having to learn how to deal with Simple Schemas in the project so that I would have a group of ingredients be displayed along with their corresponding recipe cards and pages. Communication wasn't that bad between team members as all of us managed to put in our own efforts into this project.
 <img src = "https://make-a-meal-2-0.github.io/images/landingpagev3.png">
 
 <h3>Oh yeah, I really should have done that...</h3>
