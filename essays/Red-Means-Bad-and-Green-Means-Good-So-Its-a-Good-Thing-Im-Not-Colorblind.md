@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: Red Means Bad and Green Means Good So It’s a Good Thing I’m Not Colorblind
+published: false
 
 # All dates must be YYYY-MM-DD format!
 date: 2019-02-07
