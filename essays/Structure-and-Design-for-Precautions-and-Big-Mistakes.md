@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title : Structure and Design for Precautions and Big Mistakes
+published: false
 
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-28
