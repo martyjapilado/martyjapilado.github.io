@@ -9,7 +9,7 @@ labels:
   - Software Engineering
   - Group Project Management
   - JavaScript
-  - Databases: MongoDB
+  - Databases&#58; MongoDB
   - Semantic UI/React
   - Meteor 
   - HTML/CSS
